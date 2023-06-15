@@ -18,4 +18,4 @@ Esse repo já tem um tempo de criação, sendo feito originalmente pro primeiro 
  - Exemplos com o novo software de blocos da LEGO (https://education.lego.com/en-us/downloads/mindstorms-ev3/software)
  - Exemplos com o novo MINDSTORMS e SPIKE PRIME
  
-Qualquer sugestão, cria uma issue e eu dou uma olhada :)
+Qualquer sugestão ou dúvida é só mandar um e-mail pra pedroarfux.castro@gmail.com :)
